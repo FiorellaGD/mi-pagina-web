@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Web - Fiorella García</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="foto1.jpg" alt="Portada" class="header-image">
+        <h1 class="main-title">Fiorella Andrea García Dávalos</h1>
+    </header>
+
+    <main>
+        <section class="about">
+            <img src="perfil.jpg" alt="Foto de perfil" class="profile-pic">
+            <h2>Acerca de mí</h2>
+            <p>Tengo 20 años, soy arequipeña y estudio la carrera de Administración de Negocios en la Universidad Católica San Pablo. Actualmente estoy cursando el curso de Análisis de Datos.</p>
+        </section>
+
+        <section class="courses">
+            <h2>Cursos cursados</h2>
+            <article>
+                <h3>Semestre 1</h3>
+                <ul>
+                    <li>Comunicación I</li>
+                    <li>Contabilidad para Administradores</li>
+                    <li>Economía General</li>
+                    <li>Fundamentos de Administración</li>
+                    <li>Introducción a la vida universitaria</li>
+                    <li>Matemática Básica</li>
+                    <li>Metodología del Estudio</li>
+                </ul>
+            </article>
+
+            <article>
+                <h3>Semestre 2</h3>
+                <ul>
+                    <li>Álgebra y Geometría</li>
+                    <li>Apreciación Musical</li>
+                    <li>Comunicación II</li>
+                    <li>Derecho Empresarial</li>
+                    <li>Fundamentos de Marketing</li>
+                    <li>Introducción a la Filosofía</li>
+                    <li>Oratoria</li>
+                    <li>Pensamiento Crítico e Innovación</li>
+                    <li>Teatro</li>
+                </ul>
+            </article>
+
+            <!-- Similar estructura para Semestre 3 y 4 -->
+        </section>
+    </main>
+
+    <footer>
+        <p>Hecho por: Fiorella García</p>
+        <p>Gracias :)</p>
+    </footer>
+</body>
+</html>
